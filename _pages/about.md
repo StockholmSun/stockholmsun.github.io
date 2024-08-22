@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yutai Sun's Academic Webpage"
+title: "Yutai Sun's Academic Website"
 author_profile: true
 redirect_from: 
   - /about/
