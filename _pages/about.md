@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
+
+![](comm.jpg)
